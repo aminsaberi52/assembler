@@ -553,6 +553,7 @@ void save_output(int count)
 
 int main() 
 {
+	printf("New ASSEMBLER BY AMIRSABERI\n");
 	int count = matrix_maker();
 	
 	second_counter = count;
